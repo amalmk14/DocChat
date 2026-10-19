@@ -1,0 +1,20 @@
+
+pydantic[email]
+fastapi
+uvicorn[standard]
+google-genai
+fastembed
+pypdf
+sqlalchemy
+psycopg[binary]
+pgvector
+python-dotenv
+bcrypt
+pyjwt
+python-multipart
+
+
+# anthropic
+
+
+
